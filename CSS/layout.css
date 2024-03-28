@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(136, 177, 171);
+    color:beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.topo{
+    background-color: rgb(192, 192, 169);
+    padding: 30px;
+    text-align: center;
+    color:beige;
+    font-size: medium;
+}
+.topo h1{
+    font-size: 40px;
+}
+.corpo{
+    width: 1024px;
+    margin: 10px auto;
+}
+.esquerda{
+    width: 75%;
+    float: left;
+}
+.direita{
+    width: 25%;
+    float: right;
+}
